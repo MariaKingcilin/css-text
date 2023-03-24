@@ -1,0 +1,51 @@
+body{
+	background-color:white;
+	padding:50px;
+	}
+caption{
+	background-color:skyblue;
+	border:2px solid black;
+	border-collapse:collapse;
+	height:25px;
+	padding:20px;
+	font-size:30px;
+	}
+th{
+	font-size:25px;
+  }
+table,tr,th,td{
+	border:2px solid black;
+	border-collapse:collapse;
+	padding:30px;
+	background-color:lightgreen;
+	}
+.tac{text-align:center;font-size:20px;}
+.tal{text-align:left;font-size:20px;}
+.tar{text-align:right;font-size:20px;}
+.taj{text-align:justify;font-size:20px;}
+.talc{text-align-last:center;font-size:20px;}
+.talr{text-align-last:right;font-size:20px;}
+.talj{text-align-last:justify;font-size:20px;}
+.tdi{text-align:center;color:brown;font-size:30px;}
+p{direction:rtl;unicode-bidi:bidi-override;font-size:20px;}
+.king{font-size:20px;}
+.vab{vertical-align:baseline;font-size:10px;}
+.vat{vertical-align:text-top;font-size:10px;}
+.vabm{vertical-align:text-bottom;font-size:10px;}
+.vasb{vertical-align:sub;font-size:10px;}
+.vasp{vertical-align:super;font-size:10px;}
+.tdo{text-decoration:overline yellow solid 2px;font-size:20px;}
+.tdl{text-decoration:line-through red solid 2px;font-size:20px;}
+.tdu{text-decoration:underline black dotted 2px;font-size:20px;}
+.tdou{text-decoration:overline underline blue solid 2px;font-size:20px;}
+.ttu{text-transform:uppercase;font-size:20px;}
+.ttl{text-transform:lowercase;font-size:20px;}
+.ttc{text-transform:capitalize;font-size:20px;}
+.tsti{text-indent:25px;font-size:20px;}
+.tsls{letter-spacing:5px;font-size:20px;}
+.tslh{line-height:20px;font-size:20px;}
+.tsws{word-spacing:10px;font-size:20px;}
+.tswh{white-space:wrap;font-size:20px;}
+.tsmin{font-size:30px;text-shadow:5px 5px yellow;}
+.tsmid{font-size:30px;text-shadow:5px 10px red;}
+.tsmax{font-size:30px;text-shadow:5px 10px 2px blue;}
